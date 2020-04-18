@@ -1,0 +1,7 @@
+{
+  "name": "galostats",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
