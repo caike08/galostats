@@ -1,5 +1,5 @@
 {
-  "name": "galostats",
+  "name": "io.github.caike08.galostats",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
