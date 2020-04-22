@@ -1,7 +1,7 @@
 import React from 'react';
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import ExploreContainer from '../../components/ExploreContainer';
-import './Table.css';
+import './Table.scss';
 
 const Tab3: React.FC = () => {
   return (
