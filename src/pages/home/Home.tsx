@@ -1,6 +1,7 @@
 import React from 'react';
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
-import ExploreContainer from '../../components/ExploreContainer';
+// import ExploreContainer from '../../components/ExploreContainer';
+import { SquadList } from '../../components/squad/Squad'
 import './Home.scss';
 
 const Tab1: React.FC = () => {
@@ -17,7 +18,8 @@ const Tab1: React.FC = () => {
             <IonTitle size="large">Galo Stats</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name='Future content: Home & Results' />
+        {/* <ExploreContainer name='Future content: Home & Results' /> */}
+        <SquadList />
       </IonContent>
     </IonPage>
   );
