@@ -1,6 +1,6 @@
 {
-  "short_name": "Ionic App",
-  "name": "My Ionic App",
+  "short_name": "Galo Stats",
+  "name": "Ionic PWA application build with React to follow Atlético Mineiro's updates",
   "icons": [
     {
       "src": "assets/icon/favicon.png",

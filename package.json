@@ -48,5 +48,5 @@
   "devDependencies": {
     "@capacitor/cli": "2.0.1"
   },
-  "description": "An Ionic project"
+  "description": "Ionic PWA application build with React to follow Atlético Mineiro's updates"
 }
